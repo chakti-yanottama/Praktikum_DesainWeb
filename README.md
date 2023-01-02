@@ -28,4 +28,4 @@ Kampus  : Universitas Islam Balitar
   1. Praktikum Modul  (https://codepen.io/collection/yrpGbN)
   2. Web Besar        (https://codepen.io/collection/zxpywo) 
   2. Tugas1           (https://codepen.io/collection/ExoGme)
-- Pertemuan 5 (UTIWI)
+- Pertemuan 5 : (https://codepen.io/collection/ExozGG)
