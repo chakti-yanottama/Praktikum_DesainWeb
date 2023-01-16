@@ -29,3 +29,4 @@ Kampus  : Universitas Islam Balitar
   2. Web Besar        (https://codepen.io/collection/zxpywo) 
   2. Tugas1           (https://codepen.io/collection/ExoGme)
 - Pertemuan 5 : (https://codepen.io/collection/ExozGG)
+- Pertemuan 6 (Di download dan di rar dahulu karena saya upload tidak bisa)
